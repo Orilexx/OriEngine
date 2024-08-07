@@ -1,0 +1,3 @@
+[submodule "Ori/vendor/spdlog"]
+	path = Ori/vendor/spdlog
+	url = https://github.com/gabime/spdlog
