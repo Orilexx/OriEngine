@@ -1,5 +1,5 @@
 #pragma once
-
+#include <iostream>
 //Entry point inside the Ori engine
 
 #ifdef ORI_PLATFORM_WINDOWS
